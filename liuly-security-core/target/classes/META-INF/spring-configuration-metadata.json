@@ -1,0 +1,37 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.liuly.security.core.properties.SecurityProperties",
+      "name": "com.liuly.security",
+      "type": "com.liuly.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.liuly.security.core.properties.SecurityProperties",
+      "name": "com.liuly.security.browser",
+      "type": "com.liuly.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.liuly.security.core.properties.SecurityProperties",
+      "name": "com.liuly.security.code",
+      "type": "com.liuly.security.core.properties.ValidateCodeProperties"
+    },
+    {
+      "sourceType": "com.liuly.security.core.properties.SecurityProperties",
+      "name": "com.liuly.security.oauth2",
+      "type": "com.liuly.security.core.properties.OAuth2Properties"
+    },
+    {
+      "sourceType": "com.liuly.security.core.properties.SecurityProperties",
+      "name": "com.liuly.security.session",
+      "type": "com.liuly.security.core.properties.SessionProperties"
+    },
+    {
+      "sourceType": "com.liuly.security.core.properties.SecurityProperties",
+      "name": "com.liuly.security.social",
+      "type": "com.liuly.security.core.properties.SocialProperties"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/liuly-security/liuly-security.iml" filepath="$PROJECT_DIR$/liuly-security/liuly-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuly-security-app/liuly-security-app.iml" filepath="$PROJECT_DIR$/liuly-security-app/liuly-security-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuly-security-authorize/liuly-security-authorize.iml" filepath="$PROJECT_DIR$/liuly-security-authorize/liuly-security-authorize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuly-security-browser/liuly-security-browser.iml" filepath="$PROJECT_DIR$/liuly-security-browser/liuly-security-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuly-security-core/liuly-security-core.iml" filepath="$PROJECT_DIR$/liuly-security-core/liuly-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liuly-security-demo/liuly-security-demo.iml" filepath="$PROJECT_DIR$/liuly-security-demo/liuly-security-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-security-liuly.iml" filepath="$PROJECT_DIR$/.idea/spring-security-liuly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-client-one/sso-client-one.iml" filepath="$PROJECT_DIR$/sso-client-one/sso-client-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-client-two/sso-client-two.iml" filepath="$PROJECT_DIR$/sso-client-two/sso-client-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-demo/sso-demo.iml" filepath="$PROJECT_DIR$/sso-demo/sso-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-server/sso-server.iml" filepath="$PROJECT_DIR$/sso-server/sso-server.iml" />
+    </modules>
+  </component>
+</project>

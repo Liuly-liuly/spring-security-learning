@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="liuly-security-app" />
+        <module name="liuly-security-authorize" />
+        <module name="liuly-security-browser" />
+        <module name="liuly-security-core" />
+        <module name="liuly-security-demo" />
+        <module name="sso-client-one" />
+        <module name="sso-client-two" />
+        <module name="sso-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="liuly-security" target="1.8" />
+      <module name="liuly-security-app" target="1.8" />
+      <module name="liuly-security-authorize" target="1.8" />
+      <module name="liuly-security-browser" target="1.8" />
+      <module name="liuly-security-core" target="1.8" />
+      <module name="liuly-security-demo" target="1.8" />
+      <module name="sso-client-one" target="1.8" />
+      <module name="sso-client-two" target="1.8" />
+      <module name="sso-demo" target="1.8" />
+      <module name="sso-server" target="1.8" />
+      <module name="ssodemo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

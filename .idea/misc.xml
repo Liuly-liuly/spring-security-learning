@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/liuly-security/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-client-one/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-client-two/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
