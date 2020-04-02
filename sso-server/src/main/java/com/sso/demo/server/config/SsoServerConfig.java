@@ -13,7 +13,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 
 /**
  * @version 1.0
- * @Description: li.liu06@hand-china.com
+ * @Description: 1367636569@qq.com
  * @Auther: Liuly
  * @Date: 2018/10/14
  * @since JDK 1.8

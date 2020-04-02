@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @version 1.0
- * @Description: li.liu06@hand-china.com
+ * @Description: 1367636569@qq.com
  * @Auther: Liuly
  * @Date: 2018/10/3
  * @since JDK 1.8

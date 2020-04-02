@@ -26,7 +26,7 @@ import java.io.IOException;
 
 /**
  * @version 1.0
- * @Description: li.liu06@hand-china.com
+ * @Description: 1367636569@qq.com
  * @Auther: Liuly
  * @Date: 2018/10/1
  * @since JDK 1.8
@@ -48,7 +48,7 @@ public class BrowserSecurityController {
     private SecurityProperties securityProperties;
     /**
      * description: 自动配置登录的页面才是最正确的选择
-     * @auther: li.liu06@hand-china.com
+     * @auther: 1367636569@qq.com
      * @date: 2018/10/1 20:25
      */
     @RequestMapping("/authentication/security/required")
